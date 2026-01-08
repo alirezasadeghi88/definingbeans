@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dacfe6ce-7fe1-474d-8659-ae40f5fc14a3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/ProjectConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/ProjectConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1767889044706</updated>
-      <workItem from="1767889045710" duration="862000" />
+      <workItem from="1767889045710" duration="1292000" />
     </task>
     <servers />
   </component>
