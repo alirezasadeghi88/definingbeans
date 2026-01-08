@@ -8,6 +8,7 @@ public class Main {
                 new AnnotationConfigApplicationContext(ProjectConfig.class);
 
         Parrot p = context.getBean("parrot3",Parrot.class);
+        System.out.println(p);
         System.out.println(p.getName());
 
 
